@@ -106,8 +106,8 @@ h3 {
     flex-wrap: wrap;
     justify-content: center;
     position: relative;
-    left: 0;
-    right: 0;
+    left: auto;
+    right: auto;
 }
 
 
